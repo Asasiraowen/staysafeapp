@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="item1" type="id" />
+    <item name="item2" type="id" />
+    <item name="item3" type="id" />
+    <item name="Sanitize" type="id" />
+    <item name="distancing" type="id" />
+    <item name="masks" type="id" />
+    <item name="StayHome" type="id" />
+    <item name="Go_For_Jab" type="id" />
+</resources>

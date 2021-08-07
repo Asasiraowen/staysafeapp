@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/Sanitize" android:title="Sanitize"/>
+    <item android:id="@id/masks" android:title="masks"/>
+    <item android:id="@id/distancing" android:title="Distancing"/>
+    <item android:id="@id/StayHome" android:title="StayHome"/>
+    <item android:id="@id/Go_For_Jab" android:title="Get Vaccinated"/>
+</menu>

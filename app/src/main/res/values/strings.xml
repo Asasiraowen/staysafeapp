@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StaySafe</string>
+    <String name="Name">Name</String>
+    <String name="password">password</String>
+    <String name="LOGIN">LOGIN</String>
+    <String name="number of attempts">number of attempts</String>
+    <String name="LANGUAGE">LANGUAGE</String>
+</resources>
